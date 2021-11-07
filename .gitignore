@@ -1,7 +1,4 @@
-env/
-my_secret.json
-.vscode/
-responses.json
-thread.py
-new.py
-__pycache__/
+data.json
+/music
+music
+test.py
